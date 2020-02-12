@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: a few things to describe my presence
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hi, I’m Metin.  
+I’m a finance professional with 12 years experience in banking, both in Turkey and Bahrain.  
+I had experience in Debt Capital Markets, bilateral and syndicated financing, strategic and financial modeling.  
+I am a fan of Python programming, martial arts and swimming.
