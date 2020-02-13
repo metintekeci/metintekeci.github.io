@@ -20,11 +20,12 @@ description: Getting out of the box  finance professional |
 
 # List of links in the navigation bar
 navbar-links:
+  Blog:"https://metintekeci.com"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  # Author's home: "http://deanattali.com"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
