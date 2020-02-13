@@ -20,12 +20,11 @@ description: Financial Consultant
 
 # List of links in the navigation bar
 navbar-links:
-  Blog:""
   About Me: "aboutme"
-  # Resources:
-   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-   # - Learn markdown: "http://www.markdowntutorial.com/"
-  # Author's home: "http://deanattali.com"
+  Resources:
+   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
   Tags: "https://metintekeci.com/tags/"
   Resume: "resume"
 
@@ -35,7 +34,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-  title-img: "/img/avatar-icon-mt.png" # /path/to/image
+title-img: "/img/avatar-icon-mt.png" # /path/to/image
 
 # --- Background colour/image options --- #
 
