@@ -11,7 +11,7 @@ description: Financial Consultant
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://metintekeci.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,18 +20,18 @@ description: Financial Consultant
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "https://metintekeci.com"
+  Blog: ""
   About Me: "aboutme"
   Tags: "https://metintekeci.com/tags/"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon-mt.png"
+  avatar: "/img/avatar-icon-mt.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/avatar-icon-mt.png" # /path/to/image
+# title-img: "/img/avatar-icon-mt.png" # /path/to/image
 
 # --- Background colour/image options --- #
 
