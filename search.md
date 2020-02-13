@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "Search metintekeci.com"
+title: "Search"
+subtitle: "Feeling lost? Look for things in my blog."
 ---
 
-# Search metintekeci.com
+Search my website using using **Google search**  
 
-### using Google search engine
-
-<div id="google-custom-search">
 <script>
   (function() {
     var cx = '000080914012506575356:9tlu7fddpjp'; // Google Custom Search Code for Metin Tekeci
@@ -20,6 +18,4 @@ title: "Search metintekeci.com"
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:searchbox></gcse:searchbox>
-<gcse:searchresults></gcse:searchresults>
-</div>
+<gcse:search></gcse:search>
