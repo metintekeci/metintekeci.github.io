@@ -4,7 +4,7 @@
 title: Metin Tekeci
 
 # Short description of your site
-description: Getting out of the box  finance professional | 
+description: Financial Consultant
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,19 +22,20 @@ description: Getting out of the box  finance professional |
 navbar-links:
   Blog:"https://metintekeci.com"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  #Resources:
+   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   # - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
+  Tags: "https://metintekeci.com/tags/"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon-mt.png"
+# avatar: "/img/avatar-icon-mt.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+  title-img: "/img/avatar-icon-mt.png" # /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -90,7 +91,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false # previous true -- 20200212
+  facebook: false # true
   linkedin: true
 
 # How to display the link to the website in the footer
