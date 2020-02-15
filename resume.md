@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metin Tekeci
-subtitle: ...specialized in; Corporate Finance, Financial Modeling, Banking
+subtitle: ... Corporate Finance, Financial Modeling & Banking
 ---
 > | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) 
 
