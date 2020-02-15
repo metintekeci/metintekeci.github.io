@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Metin Tekeci
-subtitle: resume
+subtitle: Skilled in; _Corporate Finance_, _Financial Modeling_, _Banking_
 ---
 > | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) 
-
-#### Specialized in :  _Corporate Finance_, _Financial Modeling_, _Banking_
 
 ## Summary
 
