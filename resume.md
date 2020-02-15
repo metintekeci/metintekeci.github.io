@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Resume
+subtitle: Metin Tekeci
 ---
-# Metin Tekeci
-
 > | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) 
 
 #### Specialized in :  _Corporate Finance_, _Financial Modeling_, _Banking_
@@ -79,10 +78,10 @@ Engaged and reported on Internet and ATM fraud Investigations  performed periodi
 
 ## Education
 
->`2008-2011`
+`2008-2011`
 __Yeditepe University, Istanbul.__ MSc in Financial Economics
 
->`2002-2005`
+`2002-2005`
 __Izmir University of Economics, Izmir.__ BA in Economics
 
 
