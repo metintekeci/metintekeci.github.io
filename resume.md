@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-subtitle: Metin Tekeci
+title: Metin Tekeci
+subtitle: resume
 ---
 > | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) 
 
