@@ -3,7 +3,7 @@ layout: page
 title: Metin Tekeci
 subtitle: ... Corporate Finance, Financial Modeling & Banking
 ---
-> | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) 
+> | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) |
 
 ## Summary
 
@@ -103,9 +103,7 @@ __Izmir University of Economics, Izmir.__ BA in Economics
 >Advanced Level Licence for Capital Markets  
 >Derivatives Licence for Capital Markets  
 
-## [Personal Traits by plum.io](https://secure.plum.io/en/p/PgqCnT4yKwiat0x25Xzevw "click to see my top talents")
-
-> ***Decision Maker*** | ***Outcome Owner*** | ***Powerful Persuader***
+---
 
 
 <!-- ### Footer
