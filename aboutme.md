@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: a few things to describe my presence
-bigimg: /img/think-together.jpg
 ---
 
 Hi, I’m Metin.  
