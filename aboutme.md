@@ -36,7 +36,7 @@ https://cibafi.org/Files/L1/Content/CI1755-CIBAFI-IRTISpeakersGuide19.3.17.pdf)
 >[IFN Forum Turkey 2015 Deal Dialogue: Zorlu Energy TL100 million Sukuk via Turkiye Finans](https://redmoneyevents.com/main/framework/assets/2015/conferenceguides/Turkey.pdf) and [video](https://vimeo.com/148875543)
 
 ---
-###[My Personal Traits](https://secure.plum.io/en/p/PgqCnT4yKwiat0x25Xzevw "click to see my talent assesment result by plum.io")  
+### [Personal Traits](https://secure.plum.io/en/p/PgqCnT4yKwiat0x25Xzevw "click to see my talent assesment result by plum.io")  
 
 > | **Decision Maker** | **Outcome Owner** | **Powerful Persuader** |   
 
