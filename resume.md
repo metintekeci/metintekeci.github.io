@@ -5,13 +5,13 @@ subtitle: ... Corporate Finance, Financial Modeling & Banking
 ---
 > | [website](https://metintekeci.com)  |  [Linkedin](https://www.linkedin.com/in/metintekeci/) | [twitter](https://twitter.com/MetinTekeci) |
 
-## Summary
+### Summary
 
 >A finance professional with banking experience in Turkey and Bahrain. Experienced as overseas branch head with focus on relationship management in financial institutions, project financing, debt capital markets, syndicated and bilateral financing. 
 Skilled in FI Relationship Management, Structured Finance, Sukuk Securitization, Risk Management, Strategic Budgeting, Financial Modeling with Excel & VBA.
 A fan of python programming in Python, data science and machine learning applications for finance.
 
-## Experience
+### Experience
 
 [__Turkiye Finans Participation Bank__](https://www.turkiyefinans.com.tr/en-us/about-us/about-ncb/Pages/about-turkiye-finans.aspx)
 
@@ -74,7 +74,7 @@ Worked as a member of IT Audit Team, upon a selective training.
 Engaged and reported on Internet and ATM fraud Investigations  performed periodic branch audits.  
 
 
-## Education
+### Education
 
 `2008-2011`
 __Yeditepe University, Istanbul.__ MSc in Financial Economics
@@ -83,19 +83,19 @@ __Yeditepe University, Istanbul.__ MSc in Financial Economics
 __Izmir University of Economics, Izmir.__ BA in Economics
 
 
-## Publications
+### Articles
 
->***Case Study*** in _Deloitte Periodical_ [TRY100 million Wakala Sukuk in the energy sector](https://www2.deloitte.com/content/dam/Deloitte/xe/Documents/financial-services/me_if_Islamic-finance-corporate-sukuk-2016.pdf)   
+>***Case Study*** in _Deloitte Islamic Finance Insights_ [TRY100 million Wakala Sukuk in the energy sector](https://www2.deloitte.com/content/dam/Deloitte/xe/Documents/financial-services/me_if_Islamic-finance-corporate-sukuk-2016.pdf)   
 ***Article*** in _Islamic Finance News_ [Turkish sukuk market review: a look at corporate sukuk](http://islamicfinancenews.com/sites/default/files/supplements/IFN%20Turkey%20Report%202016.pdf)
 
 
-## Language Skills
+### Language Skills
 
 >**English** _Full Professional Proficiency_  
 **Turkish** _Native or Bilingual Proficiency_  
 **German** _Intermediate Proficiency_  
 
-## Certifications
+### Certifications
 
 >Become a Corporate Financial Planning Analyst - Linkedin Learning  
 >Python Programming Track - Datacamp  
