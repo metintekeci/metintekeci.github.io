@@ -7,8 +7,8 @@ subtitle: ... Corporate Finance, Financial Modeling & Banking
 
 ## Summary
 
->A finance professional with over 12 years experience in banking, both in Turkey and Bahrain. Experienced as overseas branch head with focus on relationship management in financial institutions, project financing, debt capital markets, syndicated and bilateral financing. 
-Skilled in Financial Institutions Relationship Management, Structured Finance, Risk Management, Strategic Budgeting, Financial Analysis and Modeling on Excel & VBA.
+>A finance professional with banking experience in Turkey and Bahrain. Experienced as overseas branch head with focus on relationship management in financial institutions, project financing, debt capital markets, syndicated and bilateral financing. 
+Skilled in FI Relationship Management, Structured Finance, Sukuk Securitization, Risk Management, Strategic Budgeting, Financial Modeling with Excel & VBA.
 A fan of python programming in Python, data science and machine learning applications for finance.
 
 ## Experience
