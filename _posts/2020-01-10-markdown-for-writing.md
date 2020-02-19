@@ -7,12 +7,7 @@ comments: true
 ---
 
 Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML.
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take your time to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-Let's give it a try, and start with the funny things:  
-> GitHub supports emoji :exlamation:  
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat: :virgo:  
-you can find more on this [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  
 
 Now it is time to learn some more useful features. 
 
@@ -21,23 +16,25 @@ Now it is time to learn some more useful features.
 ## Here is a secondary heading  
 #### Here is a fourth level heading  
 
-Here's a useless table:
+Here's a simple table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Financial Model | Actual | Budget | Forecast1 |
+| :------ |:--- | :--- | :--- | :--- |
+| Total Assets | 150 | 220 | 350 |
+:------ |:--- | :--- | :--- | :--- |
+| Total Liabilities | 100 | 160 | 280 |
+| Shareholder's Equity | 50  | 60 | 70
+:------ |:--- | :--- | :--- | :--- |
 
 
-How about a yummy crepe?
+How about good news from me?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![good news](/img/good-news.jpeg)
+
 
 It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+![good news](/img/good-news.jpeg){: .center-block :}
 
 Here's a code chunk:
 
