@@ -11,7 +11,7 @@ You are thinking of putting $100K of start-up capital as ***equity*** on the tab
 
 Your final model will look something like this!
 
-![Basic Financial Model](/basic-financial-model.gif)
+![Basic Financial Model](/img/basic-financial-forecasting.gif)
 
 I think you feel more comfortable, once you saw the simple flow of three-statement financial model just in a spreadsheet.  Let's dive in!  
 
