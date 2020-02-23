@@ -15,14 +15,6 @@ Hint!, if you follow along the rest of this post, your final model will look lik
 
 Now you have a look and feel about what is the outcome of reading and applying the article. Let's dive in!  
 
-According to your assumptions, the initial Balance Sheet on day 1 will look like this. Your initial capital will sit on the Equity line, and your decision to put the entire amount into the business reflects on Working Capital. You also decided not to rent a furnished office space, which helped us to omit **fixed assets** item in the balance sheet. 
-
-| Assets | USD 000 | Liabilities + Equity | USD 000 |
-|------|------:|------|------:|
-| Cash |     0  | Liabilities | 0     |
-| Working Capital | 100 | Equity | 100| 
-
-
 You think you are going to sell at least $100K in the first year, and expect to grow your sales by 10% every year. The products you will sell, will cost you - ***Cost of Goods Sold - COGS*** - 20% of sales amount. 
 
 Besides, you expect the ***Operational Expenses*** like payroll, sales commissions, employee benefits, transportation and travel, rent and other expenses to incur 70% of sales amount. Since you don't have historical data, you are using your educated guessing to approximate these point estimates. 
@@ -64,7 +56,9 @@ Here is the Income Statement calculated according to assumptions.
 | 6     | Taxes              | -3.0  | -3.6  | -3.9  | -4.2  | -4.6   | 
 | 7     | Net Income         | 7.0   | 8.3   | 9.0   | 9.9   | 10.8   | 
 
-As you can guess; Income Statement items are mainly derived from our **Sales**  amount, as per the assumptions. Sales forecasts may be very detailed, with separate forecasts for each product, geography, customer segment.  Similarly, **COGS** and **OPEX** can be broken down into detailed line items which can be forecasted separately. For the purposes of this post, we keep everything in its simplest form.  You can go over the descriptions for the Income statement items below. 
+As you can guess; **Income Statement** items are mainly derived from our **Sales**  amount, as per the assumptions. Sales forecasts may be very detailed, with separate forecasts for each product, geography, or customer segment.  Similarly, **COGS** and **OPEX** can be broken down into detailed line items which can be forecasted separately. For the purposes of this post, we keep everything in its simplest form.
+
+You can go over the descriptions for the Income statement items below. 
 
 
 | Line# | Descriptions                                                                          | 
@@ -82,18 +76,22 @@ As you can guess; Income Statement items are mainly derived from our **Sales**  
 Once you have finished with the Income Statement, you can proceed to Balance Sheet items. Before typing the numbers lets get a brief overview of the balance sheet. This will help you to visualize which items balances with each other. Remember the fundamental equilibrium of accounting:  
 
 
-| **Total Assets = Liabilities + Equity** | 
-------------------------------------
-preserving the above equilibrium, the details of the Assets are;
+**Total Assets = Liabilities + Equity** 
+---------------------------------------
+
+According to your assumptions, the initial Balance Sheet on day 1 will look like this. Your initial capital will sit on the **Equity** line, and your decision to put the entire amount into the business reflects on **Working Capital**. You also decided to rent a furnished office space, which helped us to omit **fixed assets** item in the balance sheet. 
+
+| Assets | USD 000 | Liabilities + Equity | USD 000 |
+|------|------:|------|------:|
+| Cash |     0  | Liabilities | 0     |
+| Working Capital | 100 | Equity | 100| 
 
 
-|Cash / Borrowing          |Liabilities                   |
-|:-------------------------|:-----------------------------|
-|Working Capital (non-cash)|Equity                        |
-|**TOTAL ASSETS**          |**TOTAL LIABILITIES + EQUITY**|
+You may have seen various balance sheet layouts different then above. This is an over simplified version, that omits irrelevant items specific to our case. Remember we do not have fixed assets, as we rent the office, and we do not use bank loan. This level of granularity is sufficient for our purposes. 
 
+The first number you will link is the **Equity** (Line 12) at the **Start** column. Link the _equity_ amount from **assumptions** table above. 
 
-You may have seen various balance sheet layouts different then above. This is an over simplified version, that omits irrelevant items specific to our case. Remember we do not have fixed assets, as we rent the office, and we do not use bank loan. this level of granularity is sufficient for our purposes. 
+Then link this equity amount to Working Capital (Line 9). Notice that we have only _transposed_ the our starting Balance Sheet into another balance sheet with time dimension. 
 
 |Line#|BALANCE SHEET             |Start|FY1  |FY2  |FY3  |FY4  |FY5  |
 |-----|--------------------------|----:|----:|----:|----:|----:|----:|
@@ -115,7 +113,7 @@ Let's take a look at the calculation of **Balance Sheet** items below.
 |10   |Total Assets              |Sum of the above items                                                  |
 |     |                          |                                                                        |
 |11   |Liabilities               |Assumed no debt during the horizon                                      |
-|12   |Equity                    |Starts with initial $100 Equity and grows with Net Income               |
+|12   |Equity                    |Starts with initial $100 Equity as assumed and grows with Net Income               |
 |13   |Total Liabilities + Equity|Sum of the above items                                                  |
 
 Before going deep into details of each item, **CHECK** if your balance sheet balances, that is to verify Line 10 equals to Line 13. If that is not ok, you might have an error in your formulas or links. Take some time to correct your spreadsheet and come back.
