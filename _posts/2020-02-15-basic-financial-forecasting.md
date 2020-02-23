@@ -1,22 +1,21 @@
 ---
 layout: post
-title: Basic Financial Forecasting
+title: Basic financial forecasting
 subtitle: ...developing a start-up company financials from scratch.
 tags: [financial-modeling, three-statement financial model, balance sheet,  income statement, cash flow ]
 ---
 
-You meet-up with your friends in a coffee shop and decided to start a company to sell out your new product. You know the details of the business, but you don't want to go deep into the financial vocabulary. Here you can find a simple way to develop your initial pro-forma financials to keep handy for a possible investor meeting or a tool for thinking about the viability of your business. 
+You decided to start a company to sell out your new product. You know the details of the business, but you don't want to go deep into the financial vocabulary. Here you can find a simple way to develop your initial pro-forma financials to keep handy for a possible investor meeting or you want a tool for thinking about the viability of your business. 
 
-You are thinking of putting $100K of start-up capital as ***equity*** on the table, and you will put all the amount right into this business as ***working capital***. You do not want to blow any portion of your money to ***fixed assets*** at least for now, and you are going to rent a fully furnished co-working space. This means, you are not going to think of ***depreciation and amortization*** of the equipments you will use in your company financials. You are not going ask for a loan from a bank, and you are planning to stay away from debt or any other ***liabilities***.
+You are thinking of putting $100K of start-up capital as ***equity*** on the table, and you will inject all the amount right into your business as ***working capital***. You do not want to spend any portion of your money to ***fixed assets*** at least for now, and you are going to rent a fully furnished co-working space. This means, you are not going to think of ***depreciation and amortization*** of the equipments you will use. Additionally, you are not going ask for a loan from a bank, and planning to stay away from debt or any other ***liabilities***.
 
-Your final model will look something like this!
+Hint!, if you follow along the rest of this post, your final model will look like this one below!
 
 ![Basic Financial Model](/img/basic-financial-forecasting.gif)
 
-I think you feel more comfortable, once you saw the simple flow of three-statement financial model just in a spreadsheet.  Let's dive in!  
+Now you have a look and feel about what is the outcome of reading and applying the article. Let's dive in!  
 
-
-Your initial Balance Sheet on day 1 will look like this. Your initial capital on the Equity, and your decision to put the entire amount into the business is your Working Capital. You also decided not to rent a furnished office space, and this helped omitting **fixed assets** item in a balance sheet. 
+According to your assumptions, the initial Balance Sheet on day 1 will look like this. Your initial capital will sit on the Equity line, and your decision to put the entire amount into the business reflects on Working Capital. You also decided not to rent a furnished office space, which helped us to omit **fixed assets** item in the balance sheet. 
 
 | Assets | USD 000 | Liabilities + Equity | USD 000 |
 |------|------:|------|------:|
@@ -26,13 +25,13 @@ Your initial Balance Sheet on day 1 will look like this. Your initial capital on
 
 You think you are going to sell at least $100K in the first year, and expect to grow your sales by 10% every year. The products you will sell, will cost you - ***Cost of Goods Sold - COGS*** - 20% of sales amount. 
 
-Besides, you expect the ***Operational Expenses*** like payroll, sales commissions, employee benefits, transportation and travel, rent and other expenses to incur 70% of sales amount. 
+Besides, you expect the ***Operational Expenses*** like payroll, sales commissions, employee benefits, transportation and travel, rent and other expenses to incur 70% of sales amount. Since you don't have historical data, you are using your educated guessing to approximate these point estimates. 
 
-You also think to keep your cash in the bank and receive 5% ***interest income*** over the year. The ***tax rate*** from your net income will be 30% and inevitable. 
+You also think to keep company cash in the bank and receive 5% ***interest income*** over the year. The ***tax rate*** from your net income will be 30% and inevitable. 
 
-Since you want to grow your business, you will continue to put 90% of your sales into the ***Working Capital***.
+Since you want to grow your business, you will continue to put 90% of your sales into the ***Working Capital*** every year.
 
-Now, we can summarize the assumptions of our financial model. 
+Now, we can summarize the assumptions above for our financial model. 
 
 | ASSUMPTIONS                  | USD |
 |------------------------------|----:|
@@ -47,9 +46,13 @@ Now, we can summarize the assumptions of our financial model.
 | Working capital as % of sale | 90% |
 | Depreciation                 | 0   |
 
-Before continue reading, you may want to open a spreadsheet and type or copy the assumptions table above. Based on these assumptions, we can proceed to create our Income Statement. 
+Before continue reading, you may want to open a spreadsheet and type or copy the assumptions table above. Based on these assumptions, we can proceed to create our three-statement financial model. 
 
-Note that, while you are entering the formulas into the spreadsheet you should not type any number including the first year Sales amount. Just link to the proper assumption item and lock the cell with F4. You may want to refer to the description table below the income statement for calculation details. 
+Assumptions table will function as the model driver. Avoid entering any number into the rest of the model.
+
+While entering the formulas into the spreadsheet you should not type any number, and just link your cell to the proper assumption item and lock the cell with F4. 
+
+Here is the Income Statement calculated according to assumptions.
 
 | Line# | INCOME STATEMENT   | FY1   | FY2   | FY3   | FY4   | FY5    | 
 |:-----:|--------------------|------:|------:|------:|------:|-------:| 
@@ -75,13 +78,13 @@ As you can guess; Income Statement items are mainly derived from our **Sales**  
 | 7     | = **NET INCOME** : is the net of Taxes from Income Before Tax                                 | 
 
 
-  
 
-Once you have finished with Income Statement, you can proceed to Balance Sheet items. Before typing the numbers lets get a brief overview of the balance sheet. This will help us to visualize which items balances with each other. Start with putting the most important equilibrium.
+Once you have finished with the Income Statement, you can proceed to Balance Sheet items. Before typing the numbers lets get a brief overview of the balance sheet. This will help you to visualize which items balances with each other. Remember the fundamental equilibrium of accounting:  
 
-> **Assets = Liabilities + Equity**
 
-preserving the above equilibrium, the details are;
+| **Total Assets = Liabilities + Equity** | 
+------------------------------------
+preserving the above equilibrium, the details of the Assets are;
 
 
 |Cash / Borrowing          |Liabilities                   |
