@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mottos on financial modeling
-subtitle: ..bite sized tips to save your time and energy.
+subtitle: ... bite sized tips to save your time and energy.
 tags: [financial-modeling, motivation, mottos]
 
 ---

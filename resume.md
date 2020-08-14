@@ -97,11 +97,11 @@ __Izmir University of Economics, Izmir.__ BA in Economics
 
 ### Certifications
 
->Become a Corporate Financial Planning Analyst - Linkedin Learning  
->Python Programming Track - Datacamp  
->Scientific Computing and Python for Data Science I - WQU  
->Advanced Level Licence for Capital Markets  
->Derivatives Licence for Capital Markets  
+> Become a Corporate Financial Planning Analyst - Linkedin Learning  
+> Python Programming Track - Datacamp  
+> Scientific Computing and Python for Data Science - WQU  
+> Advanced Level Licence for Capital Markets  
+> Derivatives Licence for Capital Markets  
 
 ---
 

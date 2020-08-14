@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic financial forecasting
-subtitle: ...developing a start-up company financials from scratch.
+subtitle: ... developing a start-up company financials from scratch.
 tags: [financial-modeling, three-statement financial model, balance sheet,  income statement, cash flow ]
 ---
 
