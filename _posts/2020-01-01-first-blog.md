@@ -22,7 +22,7 @@ If I had a **task list**, I would check below item as completed.
 
 #### TASKS
 
-[x] start blogging
+[x] start blogging  
 [ ] write an interesting post
 
 This blog is served by [Jekyll](https://jekyllrb.com/), a blog-aware static site generator in Ruby, which is hosted by [GitHub](https://github.com/), and using [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll#readme) theme.
