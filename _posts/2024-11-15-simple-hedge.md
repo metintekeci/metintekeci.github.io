@@ -1,4 +1,9 @@
-# Simple Hedge
+---
+layout: post
+title: Simple Hedge for Portfolio Risk Management
+subtitle: ... quick guide to minimize benchmark volatility of an investment portfolio.
+tags: [hedging, portfolio returns, benchmark returns, statmodels, matplotlib,  OLS, regression, alpha, beta]
+---
 
 This post is inspired by PyQuantNews article on this [page](https://www.pyquantnews.com/the-pyquant-newsletter/how-improve-profits-portfolio-hedge).  
 I have tested the same script with a few twist to better understand the hedging concept.
