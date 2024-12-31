@@ -10,7 +10,7 @@ I have tested the same script with a few twist to better understand the hedging 
 
 ## A Quick Guide to Simple Portfolio Hedging in Volatile Markets**
 
-Beta ($\beta$) measures the portfolio’s sensitivity to movements in its benchmark. For instance, a portfolio with a $\boldsymbol\beta$ of 5 would decrease by 5% for every 1% drop in the benchmark, reflecting high sensitivity to market movements.
+Beta ($ \beta $) measures the portfolio’s sensitivity to movements in its benchmark. For instance, a portfolio with a $ \boldsymbol\beta $ of 5 would decrease by 5% for every 1% drop in the benchmark, reflecting high sensitivity to market movements.
 
 **Prepare the Portfolio and Benchmark performance**  
 
