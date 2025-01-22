@@ -7,9 +7,7 @@ subtitle: ... Corporate Finance, Financial Modeling & Banking
 
 ### Summary
 
->Management and Finance Consultant in London, UK, with experience in banking in Turkey and Bahrain.
-Advising companies for merger, acquisitions and fund raising. Experienced overseas bank branch head with focus on international financial institutions, project financing, debt capital markets, syndicated and bilateral financing.
-Skilled in Structured Finance, Strategic Budgeting, Financial Analysis and Modelling on Excel & VBA. I am a fan of Python programming, SQL, data science and machine learning applications for finance.
+> Finance professional with experience in corporate credit analysis, corporate finance, and emerging markets. Proven expertise in structured finance and bilateral funding, with a strong track record in Fixed Income structured products, particularly within the GCC and Turkey. Adept at HNW client management, market analysis, and developing strategic new business. Strong people skills, high diligence, and proficiency in financial modeling tools including Excel/VBA and Python.  
 
 ### Experience
 
@@ -23,14 +21,14 @@ Skilled in Structured Finance, Strategic Budgeting, Financial Analysis and Model
 
 `2015-2017` _Head of Bahrain Branch_  
 
->Head of first overseas branch of the bank, licensed by CBB as wholesale islamic.  
+> Head of first overseas branch of the bank, licensed by CBB as wholesale islamic.  
 Focus on bilateral funding for the bank.  
 Implement project finance over corporate sukuk issuances.  
 Lead or join syndicated financing or funding activities for Turkish corporates.  
 
 `2014-2015` _FI & Structured Finance - Asst. Vice President_  
 
->Led the Structured Finance Team for funding non-Bank corporations.  
+> Led the Structured Finance Team for funding non-Bank corporations.  
 Finalized TRY343mio issuances, one of which is the first ever in energy industry.  
 Coordinated fatwa discussions for these transactions.  
 Managed public TRY sukuk issuance program for the bank.  
@@ -39,7 +37,7 @@ Active participant of sukuk legislation discussions within and on behalf of the 
 
 `2012-2014` _Strategy and Business Development - Asst. Vice President_  
 
->Medium Term - 5 year - financial projection of the bank with a special focus on strategic targets; specifying wholesale funding needs, equity capital requirements, branching decisions.  
+> Medium Term - 5 year - financial projection of the bank with a special focus on strategic targets; specifying wholesale funding needs, equity capital requirements, branching decisions.  
 Contribute to discussions with the senior management on scenarios and strategy updates.  
 Developed a complex financial projection spreadsheet with advanced VBA and SQL scripting.  
 Compare bank performance analysis on the peer group and the overall industry.  
@@ -48,14 +46,14 @@ Initiated and implemented the first corporate sukuk of the participation banking
 
 `2011-2012` _Affluent Banking Asst. Manager_
 
->Responsible for developing customer base for HNWIs.  
+> Responsible for developing customer base for HNWIs.  
 Implemented first mass housing loan project for the Izmir Branch.  
 Trained branch staff on Indiviual Pension System sales.  
 Supported Commercial RMs for complex funding needs of customers.  
 
 `2009-2011` _Risk Analytics - Supervisor_
 
->Created initial data gathering SQL scripts for credit portfolio and risk analysis.  
+> Created initial data gathering SQL scripts for credit portfolio and risk analysis.  
 Implementation of first retail credit scoring model.  
 Assisted on credit risk model implementations for SME and Commercial segments.  
 Engaged in IT infrastructure analysis for credit risk management software implementations.  
@@ -63,7 +61,7 @@ Reported on root cause analysis of collateral management problems of the Credit 
 
 `2008-2009` _Information Systems Auditor, CISA_
 
->Engaged in first IT Inventory audit of the bank and relevant follow up procedures.  
+> Engaged in first IT Inventory audit of the bank and relevant follow up procedures.  
 Implemented datawarehouse audit, and recommended changes according to best practices.  
 Performed Internet branch audits (functionality and security), examined Pen-Test results.  
 ATM Inventory and performance audits of the ATM services, as well as service providers.  
@@ -73,7 +71,7 @@ POS Inventory and accounting audit, along with the solution partners.
 
 `2006-2008` _Auditor_
 
->Performed financial and operational audits in accordance with the internal audit program.  
+> Performed financial and operational audits in accordance with the internal audit program.  
 Participated in financial crime investigations as an assistant auditor.
 Worked as a member of IT Audit Team, upon a selective training.  
 Engaged and reported on Internet and ATM fraud Investigations  performed periodic branch audits.  
@@ -88,26 +86,26 @@ __Izmir University of Economics, Izmir.__ BA in Economics
 
 ### Articles
 
->___Case Study___ in _Deloitte Islamic Finance Insights_ [TRY100 million Wakala Sukuk in the energy sector](/docs/Deloitte_Whitepaper_p21.pdf)  
-*__Article__* in _Islamic Finance News_ [Turkish sukuk market review: a look at corporate sukuk](http://islamicfinancenews.com/sites/default/files/supplements/IFN%20Turkey%20Report%202016.pdf)
+> ___Case Study___ in _Deloitte Islamic Finance Insights_ [TRY100 million Wakala Sukuk in the energy sector](/docs/Deloitte_Whitepaper_p21.pdf)  
+> ___Article___ in _Islamic Finance News_ [Turkish sukuk market review: a look at corporate sukuk](http://islamicfinancenews.com/sites/default/files/supplements/IFN%20Turkey%20Report%202016.pdf)
 
 ### Language Skills
 
->__English__ _Full Professional Proficiency_  
-**Turkish** _Native or Bilingual Proficiency_  
-**German** _Intermediate Proficiency_  
+> __English__ _Full Professional Proficiency_  
+> __Turkish__ _Native or Bilingual Proficiency_  
+> __German__ _Intermediate Proficiency_  
 
 ### Certifications
 
-> Bookkeeping Certification - Intuit  
 > Become a Corporate Financial Planning Analyst - Linkedin Learning  
 > Python Programming Track - Datacamp  
 > Scientific Computing and Python for Data Science - WQU  
 > Advanced Level Licence for Capital Markets  
 > Derivatives Licence for Capital Markets  
+> Bookkeeping Certification - Intuit  
 
 ---
 
 <!-- ### Footer
 
-Last updated: Nov 2023 -->
+Last updated: Jan 2025 -->

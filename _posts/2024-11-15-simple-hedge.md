@@ -165,7 +165,7 @@ plt.show()
 
 ## Unhedged Portfolio Regression Summary
 
-                                OLS Regression Results                            
+*OLS Regression Results*  
     ==============================================================================
     Dep. Variable:                      y   R-squared:                       0.938
     Model:                            OLS   Adj. R-squared:                  0.938
@@ -174,8 +174,8 @@ plt.show()
     Time:                        23:57:32   Log-Likelihood:                 916.28
     No. Observations:                 500   AIC:                            -1829.
     Df Residuals:                     498   BIC:                            -1820.
-    Df Model:                           1                                         
-    Covariance Type:            nonrobust                                         
+    Df Model:                           1
+    Covariance Type:            nonrobust  
     ==============================================================================
                      coef    std err          t      P>|t|      [0.025      0.975]
     ------------------------------------------------------------------------------
@@ -186,15 +186,15 @@ plt.show()
     Prob(Omnibus):                  0.000   Jarque-Bera (JB):              244.914
     Skew:                          -0.217   Prob(JB):                     6.57e-54
     Kurtosis:                       6.401   Cond. No.                         60.8
-    ==============================================================================
-    
-    Notes:
+    ==============================================================================  
+
+Notes:  
     [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
     ==============================================================================
-    Unhedged Alpha: 0.0013, Unhedged Beta: 9.1878
-    
-    Hedged Portfolio Regression Summary
-                                OLS Regression Results                            
+    Unhedged Alpha: 0.0013, Unhedged Beta: 9.1878  
+
+*Hedged Portfolio Regression Summary*  
+                                OLS Regression Results  
     ==============================================================================
     Dep. Variable:                      y   R-squared:                       0.000
     Model:                            OLS   Adj. R-squared:                 -0.002
@@ -203,8 +203,8 @@ plt.show()
     Time:                        23:57:32   Log-Likelihood:                 916.28
     No. Observations:                 500   AIC:                            -1829.
     Df Residuals:                     498   BIC:                            -1820.
-    Df Model:                           1                                         
-    Covariance Type:            nonrobust                                         
+    Df Model:                           1  
+    Covariance Type:            nonrobust  
     ==============================================================================
                      coef    std err          t      P>|t|      [0.025      0.975]
     ------------------------------------------------------------------------------
@@ -215,13 +215,12 @@ plt.show()
     Prob(Omnibus):                  0.000   Jarque-Bera (JB):              244.914
     Skew:                          -0.217   Prob(JB):                     6.57e-54
     Kurtosis:                       6.401   Cond. No.                         60.8
-    ==============================================================================
-    
+    ==============================================================================  
     Notes:
     [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
     ==============================================================================
-    Hedged Alpha: 0.0013, Hedged Beta: -0.0000
-    
+    Hedged Alpha: 0.0013, Hedged Beta: -0.0000  
+
 ## Hedged vs Unhedged Portfolio  
 
 ![png](/img/simple-hedge.png)
