@@ -34,9 +34,9 @@ https://cibafi.org/Files/L1/Content/CI1755-CIBAFI-IRTISpeakersGuide19.3.17.pdf)
 
 ---
 
-### [Personal Traits](https://secure.plum.io/en/p/PgqCnT4yKwiat0x25Xzevw "click to see my talent assesment result by plum.io")  
+### [Personal Traits](https://secure.plum.io/en/p/PgqCnT4yKwiat0x25Xzevw "click to see my talent assesment result by `plum.io`")  
 
-> | __Decision Maker__ | __Outcome Owner__ | __Powerful Persuader__ |
+> | __Decision Making__ | __Execution__ | __Persuasion__ |
 
 [see details of my talent assesment by __plum.io__](https://secure.plum.io/en/p/PgqCnT4yKwiat0x25Xzevw)
 
