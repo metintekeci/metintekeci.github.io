@@ -87,6 +87,7 @@ __Izmir University of Economics, Izmir.__ BA in Economics
 ### Articles
 
 > ___Case Study___ in _Deloitte Islamic Finance Insights_ [TRY100 million Wakala Sukuk in the energy sector](/docs/Deloitte_Whitepaper_p21.pdf)  
+
 > ___Article___ in _Islamic Finance News_ [Turkish sukuk market review: a look at corporate sukuk](http://islamicfinancenews.com/sites/default/files/supplements/IFN%20Turkey%20Report%202016.pdf)
 
 ### Language Skills
