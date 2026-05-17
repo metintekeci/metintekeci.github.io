@@ -29,7 +29,7 @@ Lead or join syndicated financing or funding activities for Turkish corporates.
 `2014-2015` _FI & Structured Finance - Asst. Vice President_  
 
 > Led the Structured Finance Team for funding non-Bank corporations.  
-Finalized TRY343mio issuances, one of which is the first ever in energy industry.  
+Finalized TRY 345 mio issuances, one of which is the first ever in energy industry.  
 Coordinated fatwa discussions for these transactions.  
 Managed public TRY sukuk issuance program for the bank.  
 Product owner of "core banking system adaptation" of first overseas branch.  
